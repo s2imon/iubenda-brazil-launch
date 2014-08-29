@@ -48,6 +48,10 @@ Some screenshot previews:
 
 ----
 
+![Portuguese launch](https://dl.dropboxusercontent.com/u/62103626/brazil%20launch%20resources/iubenda.png?dl=1 "Portuguese")
+
+----
+
 ![Text](https://www.dropbox.com/s/3l06p9oui5eo6a0/politica_de_privacidade.png?dl=1 "Privacy policy text")
 
 ----
