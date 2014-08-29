@@ -1,4 +1,4 @@
-# iubenda localization for Brazilian Portuguese
+# iubenda translation into Portuguese (Brazilian)
 
 > Fantástico! I've been waiting for this since Iubenda launch!
 > 
@@ -37,7 +37,11 @@ The iubenda framework could help to craft a privacy policy in Brazilian Portugue
 
     Brazilian tech bloggers can try iubenda & can use the policy for an entire year if they want.
 
-    We are also happy to give your readers an additional first-year free account.    
+    We are also happy to give your readers an additional first-year discount on THEIR policies.
+
+How to get that discount:
+
+    Just get in touch with me and I'll set you up with a free account and a discount for your readers.
 
 
 ## Screenshots
