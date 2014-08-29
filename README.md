@@ -37,7 +37,7 @@ The iubenda framework could help to craft a privacy policy in Brazilian Portugue
 
     Brazilian tech bloggers can try iubenda & can use the policy for an entire year if they want.
 
-    We are also happy to give your readers an additional first-year discount.    
+    We are also happy to give your readers an additional first-year free account.    
 
 
 ## Screenshots
